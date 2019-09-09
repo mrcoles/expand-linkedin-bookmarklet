@@ -1,0 +1,16 @@
+{
+  "name": "expand-linkedin",
+  "version": "1.0.0",
+  "description": "Bookmarklet for auto-expanding linkedin content",
+  "author": "Peter Coles <peter@mrcoles.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "mkdirp dist && bookmarklet src/expand-linkedin.js dist/expand-linkedin.js",
+    "demo": "mkdirp dist && bookmarklet --demo src/expand-linkedin.js dist/expand-linkedin.html"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "bookmarklet": "^1.0.4",
+    "mkdirp": "^0.5.1"
+  }
+}
