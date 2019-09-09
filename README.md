@@ -9,3 +9,5 @@ yarn build
 ```
 
 This creates the bookmarklet at: `dist/expand-linkedin.js`
+
+Access the bookmarklet here: [https://mrcoles.com/media/test2/expand-linkedin.html](https://mrcoles.com/media/test2/expand-linkedin.html)

@@ -1,6 +1,7 @@
 // ==Bookmarklet==
 // @name Expand LinkedIn
 // @author Peter Coles
+// @repo https://github.com/mrcoles/expand-linkedin-bookmarklet/blob/master/src/expand-linkedin.js
 // ==/Bookmarklet==
 
 let wait = 0;
